@@ -11,15 +11,15 @@ This repo hosts a 3-project, 12-milestone walkthrough that turns real datasets i
 
 * **Project 1 — 2D Plotting with Matplotlib (4 milestones).** Build line/scatter, grouped bars, multi-subplot layouts, and seasonal distributions; annotate insights and export publication-quality figures. Examples include hourly rental trends and a four-season violin-plot comparison.
 
-* **Project 2 — 3D Plotting with Matplotlib (4 milestones).** Use `mplot3d` to visualize multiple variables at once (e.g., temperature × hour × rentals), adjust rcParams, label points, and control projections—perfect for multi-factor demand patterns.
+* **Project 2 — 3D Plotting with Matplotlib (4 milestones).** Use `mplot3d` to visualize multiple variables at once (e.g., temperature × hour × rentals), adjust rcParams, label points, and control projections.
 
-* **Project 3 — Plotting with Seaborn (4 milestones).** Clean census survey data and explore categorical, numerical, and pairwise relationships with Seaborn (bar/cat, joint/kde, pair plots), including theming and palettes for clear storytelling. Milestones: **Getting Data Ready**, **Categorical**, **Numerical**, **Pairwise**.&#x20;
+* **Project 3 — Plotting with Seaborn (4 milestones).** Clean census survey data and explore categorical, numerical, and pairwise relationships with Seaborn (bar/cat, joint/kde, pair plots), including theming and palettes for clear storytelling. 
 
 Each milestone includes a **solution notebook** and produces concrete deliverables (PDF/PNG/HTML) to showcase results.
 
 ## What you’ll practice
 
-* Matplotlib figure anatomy (Figure/Axes), OO interface, subplots/GridSpec, annotations, legends, color maps, and high-DPI export.
+* Matplotlib figure anatomy (Figure/Axes), subplots/GridSpec, annotations, legends, color maps, and high-DPI export.
 * 3D scatter/surfaces with `mplot3d`, axis control, labeling, and rcParams tuning.&#x20;
 * Seaborn theming, palettes, categorical/relational/regression grids, joint/kde/rug, and pairwise exploration.
 
