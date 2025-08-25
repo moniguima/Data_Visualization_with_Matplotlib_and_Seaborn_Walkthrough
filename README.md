@@ -1,7 +1,7 @@
 # Data_Visualization_with_Matplotlib_and_Seaborn_Walkthrough
-Hands-on series: master 2D/3D Matplotlib and Seaborn to turn data into decisions. Visualize bike-rental demand for ABC Bikes and uncover income drivers from survey data. 12 milestone notebooks teach styling, annotations, and statistical relationships—fast, clear, publication-ready.
-liveProject [Data Visualization with Matplotlib and Seaborn](https://www.manning.com/liveprojectseries/data-visualization-ser)
-Walkthrough [Data Visualization with Matplotlib and Seaborn](https://www.oreilly.com/videos/data-visualization-with/10000MNLW202502/)
+Hands-on series: master 2D/3D Matplotlib and Seaborn to turn data into decisions. Visualize bike-rental demand for ABC Bikes and uncover income drivers from survey data. 12 milestone notebooks teach styling, annotations, and statistical relationships—fast, clear, publication-ready.     
+liveProject [Data Visualization with Matplotlib and Seaborn](https://www.manning.com/liveprojectseries/data-visualization-ser)     
+Walkthrough [Data Visualization with Matplotlib and Seaborn](https://www.oreilly.com/videos/data-visualization-with/10000MNLW202502/)    
 
 ## About the series
 
