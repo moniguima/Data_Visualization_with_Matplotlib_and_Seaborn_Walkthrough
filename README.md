@@ -11,10 +11,10 @@ This repo hosts a 3-project, 12-milestone walkthrough that turns real datasets i
 
 * **Project 1 — 2D Plotting with Matplotlib (4 milestones).** Build line/scatter, grouped bars, multi-subplot layouts, and seasonal distributions; annotate insights and export publication-quality figures. Examples include hourly rental trends and a four-season violin-plot comparison.
 
-![Number of Bikes Rented at a day](docs/images/P1_M2.pdf)
+<img src="docs/images/P1_M2.pdf" alt="Number of Bikes Rented at a day" width="640">
 
 * **Project 2 — 3D Plotting with Matplotlib (4 milestones).** Use `mplot3d` to visualize multiple variables at once (e.g., temperature × hour × rentals), adjust rcParams, label points, and control projections.
-![3D Plots of Mean Rented Bikes per Hour and Month](docs/images/P2_M3.png)
+<img src="docs/images/P2_M3.png" alt="3D Plots of Mean Rented Bikes per Hour and Month" width="640">
 
 * **Project 3 — Plotting with Seaborn (4 milestones).** Clean census survey data and explore categorical, numerical, and pairwise relationships with Seaborn (bar/cat, joint/kde, pair plots), including theming and palettes for clear storytelling. 
 
