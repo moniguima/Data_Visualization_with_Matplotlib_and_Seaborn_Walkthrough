@@ -1,4 +1,4 @@
-# Data_Visualization_with_Matplotlib_and_Seaborn_Walkthrough
+# Data Visualization with Matplotlib and Seaborn Walkthrough
 Hands-on series: master 2D/3D Matplotlib and Seaborn to turn data into decisions. Visualize bike-rental demand for ABC Bikes and uncover income drivers from survey data. 12 milestone notebooks teach styling, annotations, and statistical relationships—fast, clear, publication-ready.     
 liveProject [Data Visualization with Matplotlib and Seaborn](https://www.manning.com/liveprojectseries/data-visualization-ser)     
 Walkthrough [Data Visualization with Matplotlib and Seaborn](https://www.oreilly.com/videos/data-visualization-with/10000MNLW202502/)    
@@ -10,6 +10,8 @@ This repo hosts a 3-project, 12-milestone walkthrough that turns real datasets i
 ## Projects & milestones
 
 * **Project 1 — 2D Plotting with Matplotlib (4 milestones).** Build line/scatter, grouped bars, multi-subplot layouts, and seasonal distributions; annotate insights and export publication-quality figures. Examples include hourly rental trends and a four-season violin-plot comparison.
+
+![Number of Bikes Rented at a day](docs/images/P1_M2.pdf)
 
 * **Project 2 — 3D Plotting with Matplotlib (4 milestones).** Use `mplot3d` to visualize multiple variables at once (e.g., temperature × hour × rentals), adjust rcParams, label points, and control projections.
 
