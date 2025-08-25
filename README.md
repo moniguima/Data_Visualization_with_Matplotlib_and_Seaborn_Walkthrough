@@ -11,7 +11,7 @@ This repo hosts a 3-project, 12-milestone walkthrough that turns real datasets i
 
 * **Project 1 — 2D Plotting with Matplotlib (4 milestones).** Build line/scatter, grouped bars, multi-subplot layouts, and seasonal distributions; annotate insights and export publication-quality figures. Examples include hourly rental trends and a four-season violin-plot comparison.
 
-![Number of Bikes Rented at a day](docs/images/P1_M2.pdf)
+! [Number of Bikes Rented at a day](docs/images/P1_M2.pdf)
 
 * **Project 2 — 3D Plotting with Matplotlib (4 milestones).** Use `mplot3d` to visualize multiple variables at once (e.g., temperature × hour × rentals), adjust rcParams, label points, and control projections.
 
