@@ -26,31 +26,6 @@ The full step-by-step walkthrough accompanying this repository is available here
 
 Each folder corresponds to a project milestone, matching the structure of the liveProject:
 
-Data_Visualization_with_Matplotlin_and_Seaborn/
-│── notebooks/
-│   ├── P1/
-│       ├── data/
-│       ├── img/
-│   ├── Walkthrough_P1_M1.ipynb
-│   ├── Walkthrough_P1_M2.ipynb
-│   ├── Walkthrough_P1_M3.ipynb
-│   └── Walkthrough_P1_M4.ipynb
-│   ├── P2/
-│       ├── data/
-│       ├── img/
-│   ├── Walkthrough_P2_M1.ipynb
-│   ├── Walkthrough_P2_M2.ipynb
-│   ├── Walkthrough_P2_M3.ipynb
-│   └── Walkthrough_P2_M4.ipynb
-│   ├── P3/
-│       ├── data/
-│       ├── img/
-│   ├── Walkthrough_P3_M1.ipynb
-│   ├── Walkthrough_P3_M2.ipynb
-│   ├── Walkthrough_P3_M3.ipynb
-│   └── Walkthrough_P3_M4.ipynb
-├── LICENSE
-└── README.md
 
 ## About the series
 
@@ -66,7 +41,7 @@ This repo hosts a 3-project, 12-milestone walkthrough that turns real datasets i
 <img src="notebooks/P2/img/P2_M3.png" alt="3D Plots of Mean Rented Bikes per Hour and Month" width="640">
 
 * **Project 3 — Plotting with Seaborn (4 milestones).** Clean census survey data and explore categorical, numerical, and pairwise relationships with Seaborn (bar/cat, joint/kde, pair plots), including theming and palettes for clear storytelling. 
-<img src="notebooks/P3/img/P3_M2_jointplot.png" alt="Gender Comparison of Hours Worked per Week" width="640">
+<img src="notebooks/P3/img/P3_M2.png" alt="Gender Comparison of Hours Worked per Week" width="640">
 
 Each milestone includes a **solution notebook** and produces concrete deliverables (PDF/PNG/HTML) to showcase results.
 
